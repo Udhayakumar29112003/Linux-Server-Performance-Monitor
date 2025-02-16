@@ -17,7 +17,9 @@ A **modular Bash script** that monitors server performance and **saves the outpu
 
 1. Clone the repository:
    ```bash
-  git clone https://github.com/yourusername/server-monitor.git
-  cd server-monitor
-  chmod +x server-monitor.sh
-  ./server-monitor.sh
+   git clone https://github.com/yourusername/server-monitor.git
+   cd server-monitor
+   chmod +x server-monitor.sh
+   ./server-monitor.sh
+  
+  
